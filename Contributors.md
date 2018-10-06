@@ -13,6 +13,7 @@
 - [Mahdi HB](https://github.com/mhb8898)
 - [Amwalul Ikhsani] (https://github.com/amwalul)
 - [diproIV]
+- [IgnasA]
 - [Pushkar](https://github.com/linton-dawson)
 - [Ritvik Jain](https://github.com/Ritvikjain)
 - [Aditya]
